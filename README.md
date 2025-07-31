@@ -2,7 +2,7 @@
 
 ## About me
 
-Work on <a href="https://dcloud.io"><img src="./README/dcloud.png" height="14"></a> company, as an Front-End IDE development engineer
+Work on <a href="https://dcloud.io"><img src="./README/dcloud.png" height="24"></a> company, as an Front-End IDE development engineer
 
 Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><img src="./README/hbuilder.png" height="24"></a>
 
