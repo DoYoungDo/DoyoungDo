@@ -30,6 +30,8 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
       </td>
       <td align="center">
         <img height="32px" src="https://cdn.svglogos.dev/logos/html-5.svg">
+      </td>
+      <td align="center">
         <img height="32px" src="https://cdn.svglogos.dev/logos/css-3.svg">
       </td>
     </tr>
