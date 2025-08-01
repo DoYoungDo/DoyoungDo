@@ -10,20 +10,20 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
 
 <div style="gap: 30px; display: flex; margin-bottom: 20px;">
     <img height="32px" src="https://cdn.svglogos.dev/logos/c-plusplus.svg"/>
-    <div>
+    <span>
     <img height="32px" src="https://cdn.svglogos.dev/logos/nodejs-icon.svg"/>
     <img height="32px" src="https://cdn.svglogos.dev/logos/tsnode.svg"/>
-    </div>
+    </span>
     <img height="32px" src="https://cdn.svglogos.dev/logos/python.svg"/>
     <img height="32px" src="https://cdn.svglogos.dev/logos/java.svg"/>
     <img height="32px" src="https://cdn.svglogos.dev/logos/swift.svg"/>
 </div>
 <div style="gap: 30px; display: flex;">
     <img height="32px" src="https://cdn.svglogos.dev/logos/qt.svg">
-    <div>
+    <span>
     <img height="32px" src="https://cdn.svglogos.dev/logos/visual-studio.svg">
     <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-    </div>
+    </span>
     <img height="32px" src="https://cdn.svglogos.dev/logos/intellij-idea.svg">
     <img height="32px" src="https://cdn.svglogos.dev/logos/xcode.svg">
     <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">
