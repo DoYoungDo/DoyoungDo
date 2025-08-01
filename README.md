@@ -34,22 +34,27 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
 ## Contact me
 
 <div style="gap: 10px; display: flex;">
-    <a href="./README/wechat.jpg" style="text-decoration: none;">
-        <div style="position: relative; width: 100px; height: 100px;">
-            <img src="https://images.icon-icons.com/1488/PNG/512/5368-wechat_102582.png" style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 100%; height: 100%; opacity: 1;" alt="微信默认图标" onmouseover="this.style.opacity='0'" onmouseout="this.style.opacity='1'">
-            <img src="./README/wechat.jpg" style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 100%; height: 100%; opacity: 0;" alt="微信二维码" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
-        </div>
-    </a>
-    <a href="./README/qq.jpg" style="text-decoration: none;">
-        <div style="position: relative; width: 100px; height: 100px;">
-            <img src="https://images.icon-icons.com/2699/PNG/96/qq_tile_logo_icon_169818.png" style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 100%; height: 100%; opacity: 1;" alt="QQ默认图标" onmouseover="this.style.opacity='0'" onmouseout="this.style.opacity='1'">
-            <img src="./README/qq.jpg" style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 300%; height: 300%; opacity: 0;" alt="QQ联系方式" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
-        </div>
-    </a>
-    <div style="position: relative; width: 100px; height: 100px;">
-        <img src="https://images.icon-icons.com/1483/PNG/96/email_102148.png" style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 100%; height: 100%; opacity: 1;" alt="邮箱默认图标" onmouseover="this.nextElementSibling.style.opacity='1'; this.style.opacity='0'" onmouseout="this.nextElementSibling.style.opacity='0'; this.style.opacity='1'">
-        <span style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 300%; height: 300%; opacity: 0;" onmouseover="this.style.opacity='1'; this.previousElementSibling.style.opacity='0'" onmouseout="this.style.opacity='0'; this.previousElementSibling.style.opacity='1'">
-            doyoung9508@126.com
-        </span>
-    </div>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <image id="img"
+    href="https://images.icon-icons.com/1488/PNG/512/5368-wechat_102582.png"
+    width="100" height="100"
+    onmouseover="this.setAttribute('href', 'https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAJae2iMVplp82YRNj4zh6-DkgETmVJCAAJdGgACUsZhVOrVHS4O3lABNgQ.jpg')"
+    onmouseout="this.setAttribute('href', 'https://images.icon-icons.com/1488/PNG/512/5368-wechat_102582.png')"/>
+</svg>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <image id="img"
+    href="https://images.icon-icons.com/2699/PNG/96/qq_tile_logo_icon_169818.png"
+    width="100" height="100"
+    onmouseover="this.setAttribute('href', 'https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAJaemiMVpebPIGkwc0pCDWjD5eI9jx-AAJcGgACUsZhVLsZKqSHbTv6NgQ.jpg')"
+    onmouseout="this.setAttribute('href', 'https://images.icon-icons.com/2699/PNG/96/qq_tile_logo_icon_169818.png')"/>
+</svg>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <image id="img"
+    href="https://images.icon-icons.com/1483/PNG/96/email_102148.png"
+    alt="email"
+    width="100" height="100"
+    onmouseover="this.setAttribute('href', '')"
+    onmouseout="this.setAttribute('href', 'https://images.icon-icons.com/1483/PNG/96/email_102148.png')"/>
+
+</svg>
 </div>
