@@ -57,11 +57,11 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
     <tbody>
         <tr style="border: none;text-align: left; vertical-align: middle;">
             <td style="border: none;"><img height="48px" src="https://images.icon-icons.com/1488/PNG/512/5368-wechat_102582.png"></td>
-            <td style="border: none;"><img height="72px" src="https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAJae2iMVplp82YRNj4zh6-DkgETmVJCAAJdGgACUsZhVOrVHS4O3lABNgQ.jpg"></td>
+            <td style="border: none;"><img height="72px" src="./README/wechat.jpg"></td>
         </tr>
         <tr style="border: none;text-align: left; vertical-align: middle;">
             <td style="border: none;"><img height="48px" src="https://images.icon-icons.com/2699/PNG/96/qq_tile_logo_icon_169818.png"></td>
-            <td style="border: none;"><img height="72px" src="https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAJaemiMVpebPIGkwc0pCDWjD5eI9jx-AAJcGgACUsZhVLsZKqSHbTv6NgQ.jpg"></td>
+            <td style="border: none;"><img height="72px" src="./README/qq.jpg"></td>
         </tr>
         <tr style="border: none;text-align: left; vertical-align: middle;">
             <td style="border: none;"><img height="48px" src="https://images.icon-icons.com/1483/PNG/96/email_102148.png"></td>
