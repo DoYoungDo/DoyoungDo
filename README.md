@@ -10,7 +10,7 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
 
 <table>
     <tbody>
-        <tr style="text-align: center; vertical-align: middle;">
+        <tr style="border: none;text-align: center; vertical-align: middle;">
             <td style="border: none;">
                 <img height="32px" src="https://cdn.svglogos.dev/logos/c-plusplus.svg">
             </td>
@@ -30,7 +30,7 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
             </td>
             </td>
         </tr>
-        <tr style="text-align: center; vertical-align: middle;">
+        <tr style="border: none;text-align: center; vertical-align: middle;">
             <td style="border: none;">
                 <img height="32px" src="https://cdn.svglogos.dev/logos/qt.svg">
             </td>
@@ -55,17 +55,17 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
 
 <table>
     <tbody>
-        <tr style="text-align: left; vertical-align: middle;">
+        <tr style="border: none;text-align: left; vertical-align: middle;">
             <td style="border: none;"><img height="48px" src="https://images.icon-icons.com/1488/PNG/512/5368-wechat_102582.png"></td>
             <td style="border: none;">shishisolo</td>
             <td style="border: none;"><img height="64px" src="./README/wechat.jpg"></td>
         </tr>
-        <tr style="text-align: left; vertical-align: middle;">
+        <tr style="border: none;text-align: left; vertical-align: middle;">
             <td style="border: none;"><img height="48px" src="https://images.icon-icons.com/2699/PNG/96/qq_tile_logo_icon_169818.png"></td>
             <td style="border: none;">1261017283</td>
             <td style="border: none;"><img height="64px" src="./README/qq.jpg"></td>
         </tr>
-        <tr style="text-align: left; vertical-align: middle;">
+        <tr style="border: none;text-align: left; vertical-align: middle;">
             <td style="border: none;"><img height="48px" src="https://images.icon-icons.com/1483/PNG/96/email_102148.png"></td>
             <td style="border: none;">doyoung9508@126.com</td>
         </tr>
