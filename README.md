@@ -34,48 +34,22 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
 ## Contact me
 
 <div style="gap: 10px; display: flex;">
-    <style>
-        .img-switch {
-            position: relative;
-            width: 100px;
-            height: 100px;
-        }
-        .img-switch img {
-            position: absolute;
-            object-fit: cover;
-            transition: opacity 0.3s ease;
-        }
-        .img-switch .default-img {
-            width: 100%;
-            height: 100%;
-            opacity: 1;
-        }
-        .img-switch .hover-img {
-            width: 300%;
-            height: 300%;
-            opacity: 0;
-        }
-        .img-switch:hover .default-img {
-            opacity: 0;
-        }
-        .img-switch:hover .hover-img {
-            opacity: 1;
-        }
-    </style>
-    <a href="./README/wechat.jpg">
-        <div class="img-switch">
-            <img src="https://images.icon-icons.com/1488/PNG/512/5368-wechat_102582.png" class="default-img" alt="默认图片">
-            <img src="./README/wechat.jpg" class="hover-img" alt="悬浮图片">
+    <a href="./README/wechat.jpg" style="text-decoration: none;">
+        <div style="position: relative; width: 100px; height: 100px;">
+            <img src="https://images.icon-icons.com/1488/PNG/512/5368-wechat_102582.png" style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 100%; height: 100%; opacity: 1;" alt="微信默认图标" onmouseover="this.style.opacity='0'" onmouseout="this.style.opacity='1'">
+            <img src="./README/wechat.jpg" style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 100%; height: 100%; opacity: 0;" alt="微信二维码" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
         </div>
     </a>
-    <a href="./README/qq.jpg">
-        <div class="img-switch">
-            <img src="https://images.icon-icons.com/2699/PNG/96/qq_tile_logo_icon_169818.png" class="default-img" alt="默认图片">
-            <img src="./README/qq.jpg" class="hover-img" alt="悬浮图片">
+    <a href="./README/qq.jpg" style="text-decoration: none;">
+        <div style="position: relative; width: 100px; height: 100px;">
+            <img src="https://images.icon-icons.com/2699/PNG/96/qq_tile_logo_icon_169818.png" style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 100%; height: 100%; opacity: 1;" alt="QQ默认图标" onmouseover="this.style.opacity='0'" onmouseout="this.style.opacity='1'">
+            <img src="./README/qq.jpg" style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 300%; height: 300%; opacity: 0;" alt="QQ联系方式" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0'">
         </div>
     </a>
-    <div class="img-switch">
-        <img src="https://images.icon-icons.com/1483/PNG/96/email_102148.png" class="default-img" alt="默认图片">
-        <span class="hover-img">doyoung9508@126.com</span>
+    <div style="position: relative; width: 100px; height: 100px;">
+        <img src="https://images.icon-icons.com/1483/PNG/96/email_102148.png" style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 100%; height: 100%; opacity: 1;" alt="邮箱默认图标" onmouseover="this.nextElementSibling.style.opacity='1'; this.style.opacity='0'" onmouseout="this.nextElementSibling.style.opacity='0'; this.style.opacity='1'">
+        <span style="position: absolute; object-fit: cover; transition: opacity 0.3s ease; width: 300%; height: 300%; opacity: 0;" onmouseover="this.style.opacity='1'; this.previousElementSibling.style.opacity='0'" onmouseout="this.style.opacity='0'; this.previousElementSibling.style.opacity='1'">
+            doyoung9508@126.com
+        </span>
     </div>
 </div>
