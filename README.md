@@ -48,6 +48,9 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
             <td style="border: none;">
                 <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">
             </td>
+            <td style="border: none;">
+                <img height="32px" src="./README/hbuilder.png">
+            </td>
         </tr>
     </tbody>
 </table>
