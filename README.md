@@ -19,10 +19,10 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
                 <img height="32px" src="https://cdn.svglogos.dev/logos/tsnode.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/python.svg">
+                <img height="32px" src="https://www.svgrepo.com/show/353795/go.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://www.svgrepo.com/show/353795/go.svg">
+                <img height="32px" src="https://cdn.svglogos.dev/logos/python.svg">
             </td>
             <td style="border: none;">
                 <img height="32px" src="https://cdn.svglogos.dev/logos/java.svg">
