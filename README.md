@@ -12,44 +12,44 @@ Develop product **HBuilderX** <a href="https://www.dcloud.io/hbuilderx.html"><im
     <tbody>
         <tr style="border: none;text-align: center; vertical-align: middle;">
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/c-plusplus.svg">
+                <img width="32px" src="https://cdn.svglogos.dev/logos/c-plusplus.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/nodejs-icon.svg">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/tsnode.svg">
+                <img width="32px" src="https://cdn.svglogos.dev/logos/nodejs-icon.svg">
+                <img width="96px" src="https://cdn.svglogos.dev/logos/tsnode.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://www.svgrepo.com/show/353795/go.svg">
+                <img width="32px" src="https://www.svgrepo.com/show/353795/go.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/python.svg">
+                <img width="32px" src="https://cdn.svglogos.dev/logos/python.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/java.svg">
+                <img width="32px" src="https://cdn.svglogos.dev/logos/java.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/swift.svg">
+                <img width="32px" src="https://cdn.svglogos.dev/logos/swift.svg">
             </td>
         </tr>
         <tr style="border: none;text-align: center; vertical-align: middle;">
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/qt.svg">
+                <img width="32px" src="https://cdn.svglogos.dev/logos/qt.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/visual-studio.svg">
-                <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+                <img width="32px" src="https://cdn.svglogos.dev/logos/visual-studio.svg">
+                <img width="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/intellij-idea.svg">
+                <img width="32px" src="https://cdn.svglogos.dev/logos/intellij-idea.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svglogos.dev/logos/xcode.svg">
+                <img width="32px" src="https://cdn.svglogos.dev/logos/xcode.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+                <img width="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">
             </td>
             <td style="border: none;">
-                <img height="32px" src="./README/hbuilder.png">
+                <img width="32px" src="./README/hbuilder.png">
             </td>
         </tr>
     </tbody>
